@@ -2,50 +2,6 @@
 This is an assignment from my Web design courses. I took advantages of the assignment to make a website which can be use as my portfolio in the future.
 - Author: William Huynh
 - Description: I used this assignment to created a website as a portfolio, and a blog to express my interest.
-- Names of File and Structure:
-
- Website (folder):
- |   |_ audio (folder):
- |      |     |
- |      |     |_ piano.mp3
- |      |_ css (folder):
- |      |     |
- |      |     |_ flightsim.css
- |      |     |
- |      |     |_ index.css
- |      |     |
- |      |     |_ music.css
- |      |     |
- |      |     |_ photography.css
- |      |     |
- |      |     |_ portfolio.css
- |      |     
- |      |_ img (folder):
- |      |     |_ flightsim (folder): img1.png -> img9.png
- |      |     |
- |      |     |_ photography (folder): img1.jpg
- |      |     |
- |      |     |_ favicon.jpg
- |      |
- |      |_ video (folder):
- |      |     |
- |      |     |_ vid1.mp4
- |      |
- |      |_ flightsim.html
- |      |
- |      |_ index.html
- |      |
- |      |_ music.html
- |      |
- |      |_ photography.html
- |      |
- |      |_ portfolio.html
- |
- |_ CodeReview.pdf
- |
- |_ DesignWriteUp.pdf
- |
- |_ README.txt (you are here)
 
 ---------------------------------------------------------------------------------------------------------------------
 - Three webpages I choose to modify and style are:
@@ -109,6 +65,7 @@ CSS Funtions:
 - Flight sim videos in this assignment is my work, not the music video, the music citation is below 
 
 Citation:
+
 [1] Metallica. 2022. Nothing Else Matters. Video. (7 June 2022). Retrieved Febuary 7, 2023 from https://www.youtube.com/watch?v=ozXZnwYTMbs
 [2] Brian Hyland. 2019. Sealed With A Kiss. Video. (7 Feb 2019). Retrieved Febuary 7, 2023 from https://www.youtube.com/watch?v=qsvTtp-n_a0
 [3] Kavinsky. 2011. Nightcall. Video. (21 Sep 2011). Retrieved Febuary 7, 2023 from https://www.youtube.com/watch?v=MV_3Dpw-BRY
