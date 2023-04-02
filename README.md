@@ -65,8 +65,7 @@ CSS Funtions:
 - Flight sim videos in this assignment is my work, not the music video, the music citation is below 
 
 Citation:
-
-[1] Metallica. 2022. Nothing Else Matters. Video. (7 June 2022). Retrieved Febuary 7, 2023 from https://www.youtube.com/watch?v=ozXZnwYTMbs
-[2] Brian Hyland. 2019. Sealed With A Kiss. Video. (7 Feb 2019). Retrieved Febuary 7, 2023 from https://www.youtube.com/watch?v=qsvTtp-n_a0
-[3] Kavinsky. 2011. Nightcall. Video. (21 Sep 2011). Retrieved Febuary 7, 2023 from https://www.youtube.com/watch?v=MV_3Dpw-BRY
-[4] Soviet war song. 2019. "Afghan, I Will Never Forget You". Video. (19 May 2019). Retrieved Febuary 7, 2023 from https://www.youtube.com/watch?v=BQWGxrqv84M
+- [1] Metallica. 2022. Nothing Else Matters. Video. (7 June 2022). Retrieved Febuary 7, 2023 from https://www.youtube.com/watch?v=ozXZnwYTMbs
+- [2] Brian Hyland. 2019. Sealed With A Kiss. Video. (7 Feb 2019). Retrieved Febuary 7, 2023 from https://www.youtube.com/watch?v=qsvTtp-n_a0
+- [3] Kavinsky. 2011. Nightcall. Video. (21 Sep 2011). Retrieved Febuary 7, 2023 from https://www.youtube.com/watch?v=MV_3Dpw-BRY
+- [4] Soviet war song. 2019. "Afghan, I Will Never Forget You". Video. (19 May 2019). Retrieved Febuary 7, 2023 from https://www.youtube.com/watch?v=BQWGxrqv84M
